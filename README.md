@@ -1,4 +1,5 @@
 # AutomatizadorDATASUS
+!Atenção! Esta ferramenta foi desenvolvida com auxilio de IA
 Uma ferramenta feita para otimizar o ambiente de faturamento do DATASUS
 
 
